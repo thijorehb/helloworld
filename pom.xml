@@ -29,11 +29,7 @@
                                             <url>http://43.205.123.132:8081/repository/release/</url>
                              </repository>
               </distributionManagement>
-              <profiles>
-
-   
-
-    <maven.compiler.plugin.version>3.8.1</maven.compiler.plugin.version>
+             
   </properties>
 
   <build>
